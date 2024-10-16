@@ -10,7 +10,7 @@
 
 ## Map
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/rm7olg7abxcut34j?svg=true)](https://ci.appveyor.com/project/BudTon/containers-map)
 
 ### Легенда
 
